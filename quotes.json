@@ -7,32 +7,39 @@
         "episode_title": "The One Where Monica Gets A Roommate (The Pilot)"
     },
     {
-        "text": "Hey, just so you know: it's NOT that common, it DOESN’T happen to every guy, and it IS a big deal!",
-        "speaker": "Rachel Green",
-        "season_num": 4,
-        "episode_num": 1,
-        "episode_title": "The One With The Jellyfish"
+        "text": "All right, kids, I gotta get to work. If I don't input those numbers... it doesn't make much of a difference.",
+        "speaker": "Chandler Bing",
+        "season_num": 1,
+        "episode_num": 3,
+        "episode_title": "The One With The Thumb"
     },
     {
-        "text": "<b>Rachel:</b> You idiot!<br><b>Chandler:</b> I’m sure you’re right, but why?",
-        "speaker": "Rachel Green",
-        "season_num": 4,
-        "episode_num": 10,
-        "episode_title": "The One With The Girl From Poughkeepsie"
+        "text": "<b>Rachel:</b> Phoebe, do you have a plan?<br><b>Phoebe:</b> I don't even have a 'pla'.",
+        "speaker": "Phoebe Buffay",
+        "season_num": 1,
+        "episode_num": 4,
+        "episode_title": "The One With George Stephanopoulos"
     },
     {
-        "text": "<b>Rachel:</b> Oh, oh, oh, he's a transpons... transponster!<br><b>Monica:</b> That's not even a word!",
-        "speaker": "Rachel Green",
-        "season_num": 4,
-        "episode_num": 12,
-        "episode_title": "The One With The Embryos"
+        "text": "<b>Chandler:</b> So... Saturday night, the big night. Date night. Saturday night, Sa-tur-day night!<br><b>Joey:</b> No plans, huh?<br><b>Chandler:</b> Not a one.",
+        "speaker": "Chandler Bing",
+        "season_num": 1,
+        "episode_num": 5,
+        "episode_title": "The One With the East German Laundry Detergent"
     },
     {
-        "text": "I'm Monica. I can't get a boyfriend so I'll stumble across the hall and sleep with the first guy I find there.",
+        "text": "<b>Monica:</b> Okay, do you see anybody you think could be me?<br><b>Teacher:</b> People! Last time there were some empty yogurt containers lying around after class. Let's not have that happen again!<br><b>Rachel:</b> She could be you.",
         "speaker": "Rachel Green",
-        "season_num": 6,
-        "episode_num": 6,
-        "episode_title": "The One On The Last Night"
+        "season_num": 1,
+        "episode_num": 21,
+        "episode_title": "The One With The Fake Monica"
+    },
+    {
+        "text": "You're over me? When were you... under me?",
+        "speaker": "Ross Geller",
+        "season_num": 2,
+        "episode_num": 7,
+        "episode_title": "The One Where Ross Finds Out"
     },
     {
         "text": "They're as different as night and... later that night.",
@@ -49,25 +56,18 @@
         "episode_title": "The One After The Superbowl"
     },
     {
-        "text": "Fine! Judge all you want, but: married a lesbian, left a man at the altar, fell in love with a gay ice dancer, threw a girl&#39;s wooden leg in a fire, LIVE IN A BOX!",
-        "speaker": "Monica Geller",
-        "season_num": 7,
+        "text": "Look at me! I&#39;m Chandler! Could I BE wearing any more clothes?",
+        "speaker": "Joey Tribbiani",
+        "season_num": 3,
         "episode_num": 2,
-        "episode_title": "The One With Rachel&#39;s Book"
+        "episode_title": "The One Where No One&#39;s Ready"
     },
     {
-        "text": "Thanksgiving is over! The vein has spoken.",
-        "speaker": "Monica Geller",
-        "season_num": 10,
-        "episode_num": 8,
-        "episode_title": "The One With The Late Thanksgiving"
-    },
-    {
-        "text": "<b>Rachel:</b> Phoebe, do you have a plan?<br><b>Phoebe:</b> I don't even have a 'pla'.",
-        "speaker": "Phoebe Buffay",
-        "season_num": 1,
-        "episode_num": 4,
-        "episode_title": "The One With George Stephanopoulos"
+        "text": "<b>Joey:</b> Oh! Uh, sorry, did I get ya?<br><b>Chandler:</b> NO, YOU DIDN&#39;T GET ME!! IT&#39;S AN ELECTRIC DRILL! YOU GET ME, YOU KILL ME!",
+        "speaker": "Chandler Bing",
+        "season_num": 3,
+        "episode_num": 5,
+        "episode_title": "The One With Frank Jr."
     },
     {
         "text": "He's her lobster.",
@@ -77,46 +77,60 @@
         "episode_title": "The One With The Flashback"
     },
     {
-        "text": "<b>Phoebe:</b> Yeah, I definitely don&#39;t like the name Ross.<br><b>Ross:</b> What a weird way to kick me when I&#39;m down.",
-        "speaker": "Phoebe Buffay",
-        "season_num": 4,
-        "episode_num": 18,
-        "episode_title": "The One With Rachel's New Dress"
+        "text": "<b>Joey:</b> Hey, Ross, I got a science question: If the <i>Homo sapiens</i> were, in fact, HOMO sapiens...is that why they're extinct?<br><b>Ross:</b> Joey, <i>Homo sapiens</i> are PEOPLE.<br><b>Joey:</b> Hey, I'm not judgin'!",
+        "speaker": "Joey Tribbiani",
+        "season_num": 3,
+        "episode_num": 8,
+        "episode_title": "The One With The Giant Poking Device"
     },
     {
-        "text": "But <i>they</i> don&#39;t know that <i>we</i> know <i>they</i> know <i>we</i> know!",
-        "speaker": "Phoebe Buffay",
-        "season_num": 5,
-        "episode_num": 14,
-        "episode_title": "The One Where Everybody Finds Out"
-    },
-    {
-        "text": "This is your third divorce! You love divorce so much you're probably gonna marry it! Then it won't work out and you're gonna have to divorce it, divorcing guy. I'm so drunk.",
-        "speaker": "Phoebe Buffay",
-        "season_num": 6,
-        "episode_num": 1,
-        "episode_title": "The One After Vegas"
-    },
-    {
-        "text": "Come on, Ross. You’re a paleontologist. Dig a little deeper.",
-        "speaker": "Phoebe Buffay",
-        "season_num": 6,
-        "episode_num": 23,
-        "episode_title": "The One With The Ring"
-    },
-    {
-        "text": "<b>Phoebe:</b> Okay, I wasn't rich like you guys, okay? I didn't eat gold and have a flying pony. I had a hard life! My mother was killed by a drug dealer.<br><b>Monica:</b> Your mother killed herself!<br><b>Phoebe:</b> She was a drug dealer!",
-        "speaker": "Phoebe Buffay",
-        "season_num": 9,
-        "episode_num": 15,
-        "episode_title": "The One With The Mugging"
-    },
-    {
-        "text": "You're over me? When were you... under me?",
+        "text": "Cheater, cheater, compulsive eater!",
         "speaker": "Ross Geller",
-        "season_num": 2,
+        "season_num": 3,
+        "episode_num": 9,
+        "episode_title": "The One With The Football"
+    },
+    {
+        "text": "<b>Monica:</b> What's 'pleh'?<br><b>Joey:</b> That's 'help' spelled backwards, so that the helicopters can read it from the air.",
+        "speaker": "Joey Tribbiani",
+        "season_num": 3,
+        "episode_num": 17,
+        "episode_title": "The One Without The Ski Trip"
+    },
+    {
+        "text": "Hey, just so you know: it's NOT that common, it DOESN’T happen to every guy, and it IS a big deal!",
+        "speaker": "Rachel Green",
+        "season_num": 4,
+        "episode_num": 1,
+        "episode_title": "The One With The Jellyfish"
+    },
+    {
+        "text": "Over the line? You... you.. you're so far past the line that you can't even see the line! The line is a <i>dot</i> to you!",
+        "speaker": "Joey Tribbiani",
+        "season_num": 4,
         "episode_num": 7,
-        "episode_title": "The One Where Ross Finds Out"
+        "episode_title": "The One Where Chandler Crosses The Line"
+    },
+    {
+        "text": "<b>Rachel:</b> You idiot!<br><b>Chandler:</b> I’m sure you’re right, but why?",
+        "speaker": "Rachel Green",
+        "season_num": 4,
+        "episode_num": 10,
+        "episode_title": "The One With The Girl From Poughkeepsie"
+    },
+    {
+        "text": "<b>Rachel:</b> Oh, oh, oh, he's a transpons... transponster!<br><b>Monica:</b> That's not even a word!",
+        "speaker": "Rachel Green",
+        "season_num": 4,
+        "episode_num": 12,
+        "episode_title": "The One With The Embryos"
+    },
+    {
+        "text": "15 Yemen Road, Yemen.",
+        "speaker": "Janice Goralnik",
+        "season_num": 4,
+        "episode_num": 15,
+        "episode_title": "The One With All The Rugby"
     },
     {
         "text": "WE WERE ON A BREAK!",
@@ -126,11 +140,53 @@
         "episode_title": "The One Without the Ski Trip"
     },
     {
+        "text": "<b>Phoebe:</b> Yeah, I definitely don&#39;t like the name Ross.<br><b>Ross:</b> What a weird way to kick me when I&#39;m down.",
+        "speaker": "Phoebe Buffay",
+        "season_num": 4,
+        "episode_num": 18,
+        "episode_title": "The One With Rachel's New Dress"
+    },
+    {
+        "text": "<b>Chandler:</b> Oh, she's got you running errands, you know, picking up wedding dresses...<i>Wah-pah!</i><br><b>Ross:</b> What's <i>wah-pah?</i><br><b>Chandler:</b> You know, whipped. <i>Wah-pah!</i><br><b>Joey:</b> That's not whipped. Whipped is <i>wh-tcssh!</i>",
+        "speaker": "Chandler Bing",
+        "season_num": 4,
+        "episode_num": 20,
+        "episode_title": "The One With All The Wedding Dresses"
+    },
+    {
+        "text": "I'd like to toast Ross and Emily. Of course my big toast will be tomorrow at the wedding. So this is kind of my little toast, or Melba toast, if you will.",
+        "speaker": "Chandler Bing",
+        "season_num": 4,
+        "episode_num": 24,
+        "episode_title": "The One With Ross's Wedding (2)"
+    },
+    {
+        "text": "I <i>will</i> find a selfless good deed! I just gave birth to three children and I will not let them be raised in a world where Joey is right!",
+        "speaker": "Phoebe Buffay",
+        "season_num": 5,
+        "episode_num": 4,
+        "episode_title": "The One Where Phoebe Hates PBS"
+    },
+    {
+        "text": "<b>Chandler:</b> Condoms?<br><b>Joey:</b> We don&#39;t know how long we&#39;re gonna be stuck here. We might have to repopulate the world.<br><b>Chandler:</b> And condoms are the way to do that?",
+        "speaker": "Chandler Bing",
+        "season_num": 5,
+        "episode_num": 5,
+        "episode_title": "The One With The Kips"
+    },
+    {
         "text": "They're still not coming on, man! And the lotion and the powder have made a paste!",
         "speaker": "Ross Geller",
         "season_num": 5,
         "episode_num": 11,
         "episode_title": "The One With All The Resolutions"
+    },
+    {
+        "text": "But <i>they</i> don&#39;t know that <i>we</i> know <i>they</i> know <i>we</i> know!",
+        "speaker": "Phoebe Buffay",
+        "season_num": 5,
+        "episode_num": 14,
+        "episode_title": "The One Where Everybody Finds Out"
     },
     {
         "text": "Pivot! PIVOT!",
@@ -140,11 +196,60 @@
         "episode_title": "The One With The Cop"
     },
     {
+        "text": "This is your third divorce! You love divorce so much you're probably gonna marry it! Then it won't work out and you're gonna have to divorce it, divorcing guy. I'm so drunk.",
+        "speaker": "Phoebe Buffay",
+        "season_num": 6,
+        "episode_num": 1,
+        "episode_title": "The One After Vegas"
+    },
+    {
+        "text": "I'm Monica. I can't get a boyfriend so I'll stumble across the hall and sleep with the first guy I find there.",
+        "speaker": "Rachel Green",
+        "season_num": 6,
+        "episode_num": 6,
+        "episode_title": "The One On The Last Night"
+    },
+    {
+        "text": "<b>Ross:</b> Chandler. I sensed it was you.<br><b>Chandler:</b> What?<br><b>Ross:</b> &#39;Unagi.&#39; I&#39;m always aware.<br><b>Chandler:</b> Are you aware that unagi is an eel?",
+        "speaker": "Chandler Bing",
+        "season_num": 6,
+        "episode_num": 17,
+        "episode_title": "The One With Unagi"
+    },
+    {
+        "text": "Come on, Ross. You’re a paleontologist. Dig a little deeper.",
+        "speaker": "Phoebe Buffay",
+        "season_num": 6,
+        "episode_num": 23,
+        "episode_title": "The One With The Ring"
+    },
+    {
+        "text": "Fine! Judge all you want, but: married a lesbian, left a man at the altar, fell in love with a gay ice dancer, threw a girl&#39;s wooden leg in a fire, LIVE IN A BOX!",
+        "speaker": "Monica Geller",
+        "season_num": 7,
+        "episode_num": 2,
+        "episode_title": "The One With Rachel&#39;s Book"
+    },
+    {
+        "text": "No! No! No! I'm not yelling <i>at</i> you, I'm just yelling <i>near</i> you. Oh God, Joey! Oh, I'm my father. Oh my God, this is horrible! I've been trying so hard not to be my mother, I did not see this coming.",
+        "speaker": "Rachel Green",
+        "season_num": 7,
+        "episode_num": 3,
+        "episode_title": "The One With Phoebe's Cookies"
+    },
+    {
         "text": "I like this one. It seems to say, 'I love you, and that's why I have to kill you.'",
         "speaker": "Ross Geller",
         "season_num": 7,
         "episode_num": 5,
         "episode_title": "The One With The Engagement Picture"
+    },
+    {
+        "text": "If he doesn&#39;t like you, this is all a moo point. Yeah, it&#39;s like a cow&#39;s opinion. It just doesn&#39;t matter. It&#39;s moo.",
+        "speaker": "Joey Tribbiani",
+        "season_num": 7,
+        "episode_num": 8,
+        "episode_title": "The One Where Chandler Doesn&#39;t Like Dogs"
     },
     {
         "text": "I'm the holiday armadillo!",
@@ -154,11 +259,53 @@
         "episode_title": "The One With The Holiday Armadillo"
     },
     {
+        "text": "Dearly beloved, I'm sorry I'm a little late.",
+        "speaker": "Joey Tribbiani",
+        "season_num": 7,
+        "episode_num": 24,
+        "episode_title": "The One With Monica & Chandler's Wedding (2)"
+    },
+    {
         "text": "I grew up with Monica. If you didn't eat fast, you didn't eat!",
         "speaker": "Ross Geller",
         "season_num": 8,
         "episode_num": 3,
         "episode_title": "The One Where Rachel Tells..."
+    },
+    {
+        "text": "Clearly you don't want people to see this tape. Now, I don't want people to see it either. But you so badly don't want people to see it that it makes me want to see it. Do you see?",
+        "speaker": "Rachel Green",
+        "season_num": 8,
+        "episode_num": 4,
+        "episode_title": "The One With The Video Tape"
+    },
+    {
+        "text": "I&#39;m not so good with the advice... Can I interest you in a sarcastic comment?",
+        "speaker": "Chandler Bing",
+        "season_num": 8,
+        "episode_num": 17,
+        "episode_title": "The One With The Tea Leaves"
+    },
+    {
+        "text": "<b>Phoebe:</b> Okay, I wasn't rich like you guys, okay? I didn't eat gold and have a flying pony. I had a hard life! My mother was killed by a drug dealer.<br><b>Monica:</b> Your mother killed herself!<br><b>Phoebe:</b> She was a drug dealer!",
+        "speaker": "Phoebe Buffay",
+        "season_num": 9,
+        "episode_num": 15,
+        "episode_title": "The One With The Mugging"
+    },
+    {
+        "text": "Thanksgiving is over! The vein has spoken.",
+        "speaker": "Monica Geller",
+        "season_num": 10,
+        "episode_num": 8,
+        "episode_title": "The One With The Late Thanksgiving"
+    },
+    {
+        "text": "I can write slogans. I mean, how hard can it be? Right? 'Cheese - It's milk... that you chew.' 'Crackers - Because your cheese needs a buddy.' 'Grapes - Because who can get a watermelon in your mouth?'",
+        "speaker": "Chandler Bing",
+        "season_num": 9,
+        "episode_num": 11,
+        "episode_title": "The One Where Rachel Goes Back to Work"
     },
     {
         "text": "<b>Ross:</b> I love marriage.<br><b>Phoebe:</b> Seriously? You? Divorce-o?<br><b>Ross:</b> If you have to call me a name, I prefer, 'Ross, The Divorcer.' It's just cooler.",
@@ -168,25 +315,18 @@
         "episode_title": "The One With The Boob Job"
     },
     {
-        "text": "Look at me! I&#39;m Chandler! Could I BE wearing any more clothes?",
-        "speaker": "Joey Tribbiani",
-        "season_num": 3,
-        "episode_num": 2,
-        "episode_title": "The One Where No One&#39;s Ready"
+        "text": "<b>Ross:</b> I went to that tanning place your wife suggested.<br><b>Chandler:</b> Was that place THE SUN?",
+        "speaker": "Chandler Bing",
+        "season_num": 10,
+        "episode_num": 3,
+        "episode_title": "The One With Ross's Tan"
     },
     {
-        "text": "<b>Joey:</b> Hey, Ross, I got a science question: If the <i>Homo sapiens</i> were, in fact, HOMO sapiens...is that why they're extinct?<br><b>Ross:</b> Joey, <i>Homo sapiens</i> are PEOPLE.<br><b>Joey:</b> Hey, I'm not judgin'!",
-        "speaker": "Joey Tribbiani",
-        "season_num": 3,
-        "episode_num": 8,
-        "episode_title": "The One With The Giant Poking Device"
-    },
-    {
-        "text": "If he doesn&#39;t like you, this is all a moo point. Yeah, it&#39;s like a cow&#39;s opinion. It just doesn&#39;t matter. It&#39;s moo.",
-        "speaker": "Joey Tribbiani",
-        "season_num": 7,
-        "episode_num": 8,
-        "episode_title": "The One Where Chandler Doesn&#39;t Like Dogs"
+        "text": "<b>Joey:</b> Oh. 'They're warm, nice people with big hearts.'<br><b>Chandler:</b> And that became, 'They're humid, pre-possessing homo sapiens with full-sized aortic pumps?'",
+        "speaker": "Chandler Bing",
+        "season_num": 10,
+        "episode_num": 5,
+        "episode_title": "The One Where Rachel's Sister Baby-sits"
     },
     {
         "text": "JOEY DOESN'T SHARE FOOD!",
@@ -201,76 +341,6 @@
         "season_num": 10,
         "episode_num": 13,
         "episode_title": "The One Where Joey Speaks French"
-    },
-    {
-        "text": "All right, kids, I gotta get to work. If I don't input those numbers... it doesn't make much of a difference.",
-        "speaker": "Chandler Bing",
-        "season_num": 1,
-        "episode_num": 3,
-        "episode_title": "The One With The Thumb"
-    },
-    {
-        "text": "<b>Joey:</b> Oh! Uh, sorry, did I get ya?<br><b>Chandler:</b> NO, YOU DIDN&#39;T GET ME!! IT&#39;S AN ELECTRIC DRILL! YOU GET ME, YOU KILL ME!",
-        "speaker": "Chandler Bing",
-        "season_num": 3,
-        "episode_num": 5,
-        "episode_title": "The One With Frank Jr."
-    },
-    {
-        "text": "<b>Chandler:</b> Oh, she's got you running errands, you know, picking up wedding dresses...<i>Wah-pah!</i><br><b>Ross:</b> What's <i>wah-pah?</i><br><b>Chandler:</b> You know, whipped. <i>Wah-pah!</i><br><b>Joey:</b> That's not whipped. Whipped is <i>wh-tcssh!</i>",
-        "speaker": "Chandler Bing",
-        "season_num": 4,
-        "episode_num": 20,
-        "episode_title": "The One With All The Wedding Dresses"
-    },
-    {
-        "text": "<b>Chandler:</b> Condoms?<br><b>Joey:</b> We don&#39;t know how long we&#39;re gonna be stuck here. We might have to repopulate the world.<br><b>Chandler:</b> And condoms are the way to do that?",
-        "speaker": "Chandler Bing",
-        "season_num": 5,
-        "episode_num": 5,
-        "episode_title": "The One With The Kips"
-    },
-    {
-        "text": "<b>Ross:</b> Chandler. I sensed it was you.<br><b>Chandler:</b> What?<br><b>Ross:</b> &#39;Unagi.&#39; I&#39;m always aware.<br><b>Chandler:</b> Are you aware that unagi is an eel?",
-        "speaker": "Chandler Bing",
-        "season_num": 6,
-        "episode_num": 17,
-        "episode_title": "The One With Unagi"
-    },
-    {
-        "text": "I thought that it mattered what I said or where I said it. Then I realized the only thing that matters is that you, that you make me happier than I ever thought I could be and if you let me I will spend the rest of my life trying to make you feel the same way.",
-        "speaker": "Chandler Bing",
-        "season_num": 6,
-        "episode_num": 25,
-        "episode_title": "The One With The Proposal (2)"
-    },
-    {
-        "text": "I&#39;m not so good with the advice... Can I interest you in a sarcastic comment?",
-        "speaker": "Chandler Bing",
-        "season_num": 8,
-        "episode_num": 17,
-        "episode_title": "The One With The Tea Leaves"
-    },
-    {
-        "text": "I can write slogans. I mean, how hard can it be? Right? 'Cheese - It's milk... that you chew.' 'Crackers - Because your cheese needs a buddy.' 'Grapes - Because who can get a watermelon in your mouth?'",
-        "speaker": "Chandler Bing",
-        "season_num": 9,
-        "episode_num": 11,
-        "episode_title": "The One Where Rachel Goes Back to Work"
-    },
-    {
-        "text": "<b>Ross:</b> I went to that tanning place your wife suggested.<br><b>Chandler:</b> Was that place THE SUN?",
-        "speaker": "Chandler Bing",
-        "season_num": 10,
-        "episode_num": 3,
-        "episode_title": "The One With Ross's Tan"
-    },
-    {
-        "text": "15 Yemen Road, Yemen.",
-        "speaker": "Janice Goralnik",
-        "season_num": 4,
-        "episode_num": 15,
-        "episode_title": "The One With All The Rugby"
     }
     
 ]
