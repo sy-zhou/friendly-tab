@@ -12,7 +12,7 @@
     },
     "browser_action": {
         "default_popup": "todolist.html",
-        "default_icon": "Images/favicon_central_perk_16.png"
+        "default_icon": "Images/central_perk_icon_16.png"
     },
 
     "manifest_version": 2

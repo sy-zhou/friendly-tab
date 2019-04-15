@@ -66,7 +66,7 @@ function loadTopSites(mostVisitedURLs) {
         if (title.length > MAX_LINK_LENGTH) {
             title = title.substring(0, MAX_LINK_LENGTH) + "...";
         }
-        siteList[i].innerHTML = "<a href=" + site.url + ">" + title + "</a>";
+        siteList[i].innerHTML = `<a href=${site.url}>${title}</a>`;
     }
 
 }
@@ -75,7 +75,11 @@ function loadTopSites(mostVisitedURLs) {
  * Updates the date shown on the page.
  */
 function updateDate() {
-    date.innerHTML = MONTHS[today.getMonth()] + " " + today.getDate() + ", " + today.getFullYear();
+    let month = MONTHS[today.getMonth()];
+    let day = today.getDate();
+    let year = today.getFullYear();
+    
+    date.innerHTML = `${month} ${day}, ${year}`;
 }
 
 /**
@@ -90,7 +94,7 @@ function updateTime() {
     if (mins < DOUBLE_DIGITS) {mins = "0" + mins};
 
     // set in HTML
-    time.innerHTML = hours + ":" + mins;
+    time.innerHTML = `${hours}:${mins}`;
 }
 
 /**
@@ -98,17 +102,15 @@ function updateTime() {
  */
 function updateQuote() {
     let index = Math.floor(Math.random() * quotes.length);
+    const { text, speaker, season_num, episode_num, episode_title } = quotes[index];
 
     // formatting quote
-    let seasonNum = quotes[index]["season_num"];
-    let seasonText = "S" + (seasonNum < DOUBLE_DIGITS ? "0" + seasonNum : seasonNum);
-    let episodeNum = quotes[index]["episode_num"];
-    let episodeText = "E" + (episodeNum < DOUBLE_DIGITS ? "0" + episodeNum : episodeNum);
-    let speakerText = "<b>" + quotes[index]["speaker"] + "</b>&ensp;" + seasonText + episodeText + ": " + quotes[index]["episode_title"];
+    let seasonText = "S" + (season_num < DOUBLE_DIGITS ? "0" + season_num : season_num);
+    let episodeText = "E" + (episode_num < DOUBLE_DIGITS ? "0" + episode_num : episode_num);
 
     // set in HTML
-    quoteText.innerHTML = quotes[index]["text"];
-    quoteSpeaker.innerHTML = speakerText;
+    quoteText.innerHTML = `${text}`;
+    quoteSpeaker.innerHTML = `<b>${speaker}</b>&ensp;${seasonText}${episodeText}: ${episode_title}`;
 
 }
 
