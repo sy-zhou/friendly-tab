@@ -1,5 +1,5 @@
 /**
- * The JS file for creating the web page.
+ * The JS file for the new tab.
  * Quotes retrieved from: http://www.friends-tv.org/epguide.html
  * 
  * @author sy-zhou
@@ -15,16 +15,16 @@ const MAX_LINK_LENGTH = 30;
 const DOUBLE_DIGITS = 10;
 
 // variables
-let umbrella_image = document.getElementById("umbrellas");
-let time = document.getElementById("time");
-let date = document.getElementById("date");
-let quoteText = document.getElementById("text");
-let quoteSpeaker = document.getElementById("speaker");
+var umbrella_image = document.getElementById("umbrellas");
+var time = document.getElementById("time");
+var date = document.getElementById("date");
+var quoteText = document.getElementById("text");
+var quoteSpeaker = document.getElementById("speaker");
 
-let quotes = [];
-let currentDay = -1;
-let currentMinute = -1;
-let today;
+var quotes = [];
+var currentDay = -1;
+var currentMinute = -1;
+var today;
 
 
 /**
@@ -39,7 +39,7 @@ umbrella_image.onclick = function() {
  * Retrieves quotes from QUOTES_FILE and adds them to an array.
  */
 function loadQuotes() {
-    let xhr = new XMLHttpRequest();
+    var xhr = new XMLHttpRequest();
     xhr.open("GET", QUOTES_FILE, false);
     xhr.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
@@ -55,14 +55,14 @@ function loadQuotes() {
  * @param mostVisitedURLs an array containing info on the top sites visited by the user 
  */
 function loadTopSites(mostVisitedURLs) {
-    let siteList = document.getElementsByClassName("site");
+    var siteList = document.getElementsByClassName("site");
 
     if (!mostVisitedURLs.length) { return; }
 
     // set in HTML
-    for (let i = 0; i < NUM_SITES; ++i) {
-        let site = mostVisitedURLs[i];
-        let title = site.title;
+    for (var i = 0; i < NUM_SITES; ++i) {
+        var site = mostVisitedURLs[i];
+        var title = site.title;
         if (title.length > MAX_LINK_LENGTH) {
             title = title.substring(0, MAX_LINK_LENGTH) + "...";
         }
@@ -75,9 +75,9 @@ function loadTopSites(mostVisitedURLs) {
  * Updates the date shown on the page.
  */
 function updateDate() {
-    let month = MONTHS[today.getMonth()];
-    let day = today.getDate();
-    let year = today.getFullYear();
+    var month = MONTHS[today.getMonth()];
+    var day = today.getDate();
+    var year = today.getFullYear();
     
     date.innerHTML = `${month} ${day}, ${year}`;
 }
@@ -87,8 +87,8 @@ function updateDate() {
  */
 function updateTime() {
     // retrieving info about time
-    let hours = today.getHours();
-    let mins = today.getMinutes();
+    var hours = today.getHours();
+    var mins = today.getMinutes();
 
     if (hours < DOUBLE_DIGITS) {hours = "0" + hours};
     if (mins < DOUBLE_DIGITS) {mins = "0" + mins};
@@ -101,12 +101,12 @@ function updateTime() {
  * Updates the quote displayed when the web page is opened or at midnight.
  */
 function updateQuote() {
-    let index = Math.floor(Math.random() * quotes.length);
+    var index = Math.floor(Math.random() * quotes.length);
     const { text, speaker, season_num, episode_num, episode_title } = quotes[index];
 
     // formatting quote
-    let seasonText = "S" + (season_num < DOUBLE_DIGITS ? "0" + season_num : season_num);
-    let episodeText = "E" + (episode_num < DOUBLE_DIGITS ? "0" + episode_num : episode_num);
+    var seasonText = "S" + (season_num < DOUBLE_DIGITS ? "0" + season_num : season_num);
+    var episodeText = "E" + (episode_num < DOUBLE_DIGITS ? "0" + episode_num : episode_num);
 
     // set in HTML
     quoteText.innerHTML = `${text}`;

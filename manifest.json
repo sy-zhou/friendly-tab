@@ -1,17 +1,13 @@
 {
-    "name": "Friends Tab",
+    "name": "Friendly Tab",
     "description": "A silly tab made to cheer up all Friends geeks.",
-    "version": "1.0",
-    "permissions": ["storage", "tabs", "topSites"],
-    "background": {
-        "scripts": ["background.js"],
-        "persistent": false
-    },
+    "version": "1.1",
+    "permissions": ["tabs", "topSites"],
     "chrome_url_overrides": {
-        "newtab": "index.html"
+        "newtab": "newtab.html"
     },
     "browser_action": {
-        "default_popup": "todolist.html",
+        "default_popup": "popup.html",
         "default_icon": "Images/central_perk_icon_16.png"
     },
 
